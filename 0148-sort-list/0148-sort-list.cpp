@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* findmiddle(ListNode* head) {
@@ -24,13 +14,11 @@ public:
         ListNode* pre = newhead;
         while (lefthead != nullptr && righthead != nullptr) {
             if (lefthead->val > righthead->val) {
-                ListNode* x = new ListNode(righthead->val);
-                pre->next = x;
+                pre->next = righthead;
                 pre = pre->next;
                 righthead = righthead->next;
             } else {
-                ListNode* x = new ListNode(lefthead->val);
-                pre->next = x;
+                pre->next = lefthead;
                 pre = pre->next;
                 lefthead = lefthead->next;
             }
