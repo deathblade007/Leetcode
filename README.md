@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/deathblade007/Leetcode/tree/master/0039-combination-sum) |
 | [3917-count-indices-with-opposite-parity](https://github.com/deathblade007/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/deathblade007/Leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/deathblade007/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
