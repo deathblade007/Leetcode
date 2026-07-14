@@ -8,7 +8,7 @@ public:
         if (sum == k) {
             ans.push_back(al);
             return;
-        } else {
+        } else if (i < arr.size() && arr[i] <= k) {
             al.push_back(arr[i]);
             sum += arr[i];
             sub(arr, al, i, k, sum);
