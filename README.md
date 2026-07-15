@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deathblade007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/deathblade007/Leetcode/tree/master/0050-powx-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deathblade007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/deathblade007/Leetcode/tree/master/0039-combination-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deathblade007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
