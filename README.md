@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/deathblade007/Leetcode/tree/master/0039-combination-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/deathblade007/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3917-count-indices-with-opposite-parity](https://github.com/deathblade007/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
