@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deathblade007/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/deathblade007/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/deathblade007/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deathblade007/Leetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/deathblade007/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
